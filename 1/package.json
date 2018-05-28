@@ -1,0 +1,17 @@
+{
+  "name": "server_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon"
+  },
+  "author": "Egorka",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  },
+  "dependencies": {
+    "moment": "^2.21.0"
+  }
+}
